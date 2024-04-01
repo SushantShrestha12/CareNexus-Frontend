@@ -36,7 +36,7 @@ document
       });
 
       if (response.ok) {
-        window.location.href = "/html/home.html";
+        window.location.href = "/html/index.html";
         alert("Logged in successfully!");
       }
       else{
